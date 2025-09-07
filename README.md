@@ -19,3 +19,4 @@ Time Allocation You will have 5 hours to complete this challenge. Budget your ti
 Evaluation Criteria While specific criteria vary by track, you will generally be evaluated on:
 
 Correct implementation of the chosen deployment platform Quality and security of the IaC implementation Effectiveness of the CI/CD pipeline Containerization best practices Monitoring and logging setup Documentation quality Overall architecture and security considerations Proper implementation of Terraform state management and collaboration features Getting Started Review the common requirements and evaluation criteria. Choose your deployment track: EKS, Fargate, or Lambda Container. Follow the specific instructions for your chosen track. Use the provided microservices code as a starting point for your application.
+-------------------------------------------------------------------------------------------
